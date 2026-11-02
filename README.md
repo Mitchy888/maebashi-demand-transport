@@ -1,6 +1,12 @@
 # 前橋市 デマンド交通分析アプリ
 # Maebashi City On-Demand Transport Analysis App
 
+## Webアプリ
+
+以下のURLから、実際に動作するアプリを利用できます。
+
+https://maebashi-demand-transport.streamlit.app/
+
 ## 1. プロジェクト概要
 
 本アプリは、公共交通オープンデータチャレンジ2026への応募を目的として開発中の、前橋市デマンド交通分析アプリです。
@@ -94,9 +100,13 @@ https://creativecommons.org/licenses/by/4.0/deed.ja
 
 ## 6. 開発状況
 
-現在、開発者のローカル環境（localhost）で動作確認済みです。
+Streamlit Community Cloudを利用してWebアプリとして公開し、ブラウザ上での動作確認を完了しています。
 
-GitHubへのコード保存およびWebへの一般公開は、今後の作業として予定しています。
+ソースコードはGitHubで公開しています。
+
+GitHubリポジトリ：
+
+https://github.com/Mitchy888/maebashi-demand-transport
 
 ## 7. 開発上の位置づけ
 
